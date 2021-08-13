@@ -1,2 +1,2 @@
 # Yugioh-Calculator
-Better Yugioh life point calculator
+Yugioh life point calculator
